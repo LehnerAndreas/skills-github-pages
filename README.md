@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Hallo Mama, reicht das als Seite? Bilder und so kann man natürlich auch einfügen.
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
